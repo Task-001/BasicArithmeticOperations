@@ -9,12 +9,7 @@
     cin  >> SecondNumber;
     double sum = FirstNumber+SecondNumber;
     cout <<"The Sum is : "<<sum<<endl;
-<<<<<<< HEAD
-
-//Test 2 
-=======
-    
-    
+//Test 2  
 //test 3
->>>>>>> master
+//test 4    
     }
